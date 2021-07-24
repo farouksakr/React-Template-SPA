@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Template-SPA/static/css/main.107bf779.chunk.css",
+    "main.js": "/React-Template-SPA/static/js/main.b8a2f6dc.chunk.js",
+    "main.js.map": "/React-Template-SPA/static/js/main.b8a2f6dc.chunk.js.map",
+    "runtime-main.js": "/React-Template-SPA/static/js/runtime-main.99609c0b.js",
+    "runtime-main.js.map": "/React-Template-SPA/static/js/runtime-main.99609c0b.js.map",
+    "static/js/2.9d056613.chunk.js": "/React-Template-SPA/static/js/2.9d056613.chunk.js",
+    "static/js/2.9d056613.chunk.js.map": "/React-Template-SPA/static/js/2.9d056613.chunk.js.map",
+    "static/js/3.d931f71c.chunk.js": "/React-Template-SPA/static/js/3.d931f71c.chunk.js",
+    "static/js/3.d931f71c.chunk.js.map": "/React-Template-SPA/static/js/3.d931f71c.chunk.js.map",
+    "index.html": "/React-Template-SPA/index.html",
+    "static/css/main.107bf779.chunk.css.map": "/React-Template-SPA/static/css/main.107bf779.chunk.css.map",
+    "static/js/2.9d056613.chunk.js.LICENSE.txt": "/React-Template-SPA/static/js/2.9d056613.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99609c0b.js",
+    "static/js/2.9d056613.chunk.js",
+    "static/css/main.107bf779.chunk.css",
+    "static/js/main.b8a2f6dc.chunk.js"
+  ]
+}
